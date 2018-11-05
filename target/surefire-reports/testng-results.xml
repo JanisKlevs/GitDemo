@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="30" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="30" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+      <class name="gaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="REST1()[pri:0, instance:gaclickacademy.RESTAPITest@2096442d]" name="REST1" duration-ms="1" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- REST1 -->
+        <test-method status="PASS" signature="REST2()[pri:0, instance:gaclickacademy.RESTAPITest@2096442d]" name="REST2" duration-ms="0" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- REST2 -->
+      </class> <!-- gaclickacademy.RESTAPITest -->
+      <class name="gaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation1()[pri:0, instance:gaclickacademy.SeleniumTest@9f70c54]" name="BrowserAutomation1" duration-ms="0" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation1 -->
+        <test-method status="PASS" signature="BrowserAutomation2()[pri:0, instance:gaclickacademy.SeleniumTest@9f70c54]" name="BrowserAutomation2" duration-ms="1" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation2 -->
+      </class> <!-- gaclickacademy.SeleniumTest -->
+      <class name="gaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:gaclickacademy.AppiumTest@2c9f9fb0]" name="IOSApps" duration-ms="5" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAndroid()[pri:0, instance:gaclickacademy.AppiumTest@2c9f9fb0]" name="NativeAndroid" duration-ms="0" started-at="2018-11-05T09:24:09Z" finished-at="2018-11-05T09:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAndroid -->
+      </class> <!-- gaclickacademy.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
