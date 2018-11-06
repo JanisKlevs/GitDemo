@@ -11,6 +11,7 @@ public class AppiumTest {
 		System.out.println("NativeAndroid");
 		System.out.println("NativeAndroid2");
 		System.out.println("NativeAndroid3");
+		System.out.println("NativeAndroid4");
 	}
 
 	@Test

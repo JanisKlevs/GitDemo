@@ -9,6 +9,7 @@ public class RESTAPITest {
 	
 	{
 		System.out.println("REST1");
+		System.out.println("REST3");
 	}
 
 	@Test
