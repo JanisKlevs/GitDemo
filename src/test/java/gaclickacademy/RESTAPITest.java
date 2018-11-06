@@ -18,4 +18,10 @@ public class RESTAPITest {
 		System.out.println("REST2");
 	}
 	
+	@Test
+	public void REST3 ()
+	{
+		System.out.println("REST3");
+	}
+	
 }
